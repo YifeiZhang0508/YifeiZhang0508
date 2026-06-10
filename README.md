@@ -2,9 +2,7 @@
 
 Welcome and thank you for visiting my personal page. I am now learning how to calculate more efficiently and some knowledge about computer hardware, problem modeling and algorithm design.
 
-<div style="flex: 0 0 auto;">
-    <img src="./pic.jpg" alt="My Picture" style="max-width: 200px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
-</div>
+![pic1](./pic1.jpg)
 
 ## Education Experience
 
@@ -35,3 +33,5 @@ Welcome and thank you for visiting my personal page. I am now learning how to ca
 - **Score 360** (**Top 1.25%**) in CSP42, **CSP** by China Computer Federation(CCF)
 
 - Passed the Network Security exam of National Computer Rank Examination (**NCRE**, Level 4), National Education Examinations Authority
+
+![pic1](./pic2.jpg)
