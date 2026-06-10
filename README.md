@@ -1,20 +1,9 @@
-# Hello, World!
+# Hello, World
 
 Welcome and thank you for visiting my personal page. I am now learning how to calculate more efficiently and some knowledge about computer hardware, problem modeling and algorithm design.
 
-<div style="display: flex; align-items: flex-start; gap: 20px; margin: 20px 0;">
-    <div style="flex: 0 0 auto;">
-        <img src="./pic.jpg" alt="My Picture" style="max-width: 200px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
-    </div>
-    <div style="flex: 1;">
-        <h1>Yifei Zhang</h1>
-        <ul>
-            <li><h4>Undergraduate student</h4></li>
-            <li><h4>School of Computer Science, Nanjing University</h4></li>
-            <li>Github: ​<a href="https://github.com/YifeiZhang0508">YifeiZhang0508</a></li>
-            <li>Email: yifeizhang2027@foxmail.com</li>
-        </ul>
-    </div>
+<div style="flex: 0 0 auto;">
+    <img src="./pic.jpg" alt="My Picture" style="max-width: 200px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
 </div>
 
 ## Education Experience
