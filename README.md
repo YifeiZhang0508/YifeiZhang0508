@@ -2,6 +2,8 @@
 
 Welcome and thank you for visiting my personal page. I am now learning how to calculate more efficiently and some knowledge about computer hardware, problem modeling and algorithm design.
 
+![pic](./pic.jpg)
+
 ## Education Experience
 
 - **2023.09 - Present, Bachelor of Science** in Computer Science and Technology, School of Computer Science, Nanjing University
